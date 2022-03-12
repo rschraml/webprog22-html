@@ -12,4 +12,5 @@ Complete the following tasks one after the other:
 
 
 These assignments were slightly adopted based on the content provided by:
+
 **Scott Granneman • [www.granneman.com](www.granneman.com) • scott@granneman.com**
