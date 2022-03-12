@@ -22,4 +22,4 @@ Insert the images in the appropriate locations inside `<figure> `.
     - Don’t forget to include the height & width attributes. How do you get those? You can open an image in Atom and you will find its size in the bottom left of Atom.
     - Don’t forget the alt attributes for the `<img>`s. Hmmm… where could you find the - text you could use for the alt?
 
-The following text should be quoted (using the appropriate element!): “the only liqueur in the world with a completely natural green colour”.
+The following text should be quoted (using the appropriate element!): **“the only liqueur in the world with a completely natural green colour”**.
