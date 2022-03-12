@@ -1,6 +1,6 @@
 ## Task09a
 Create a new file named **chartreuse-00a.html**.
-In this file reproduce the content of Pre-Chartreuse No. 12. Copy the text from the [PDF](pdfs/pre-chartreuse01.pdf).
+In this file reproduce the content of Pre-Chartreuse No. 1. Copy the text from the [PDF](pdfs/pre-chartreuse-01.pdf).
 
 This assignment introduces the following elements. You should use every one of these elements in order to complete the assignment:
 ```
