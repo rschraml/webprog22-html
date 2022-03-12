@@ -16,9 +16,7 @@ Create the following webpages in the project folder. For each of these 3 pages, 
 
 OK, now for the main part of the assignment. Create a new file in your colors project: `index-01.html`.
 
-Reproduce this webpage index-01.html: [Index No. 1](pdfs/index-01.pdf).
-
-The `<title>` is Colors.
+Reproduce this webpage index-01.html: [Index No. 1](pdfs/index-01.pdf). The `<title>` is Colors.
 
 The numbered list at the top is actually going to be the main navigation on the website, so indicate that accordingly.
 
@@ -52,6 +50,6 @@ The numbered list at the top is actually going to be the main navigation on the 
 
 In that navigation, the word “Home” always links to the latest version of your new Home page (**index-01.html** in this case).
 
-This page should now look like this: (Chartreuse No. 4)[pdfs/chartreuse-04.pdf]
+This page should now look like this: [Chartreuse No. 4](pdfs/chartreuse-04.pdf)
 
 Of course, this means you’re going to need to go back to index-01.html & change the link to Chartreuse in the navigation (to **chartreuse-04.html** in this case)!
