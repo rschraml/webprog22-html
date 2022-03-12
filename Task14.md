@@ -14,17 +14,17 @@ Reproduce this webpage as **tertiary-01.html**: [Tertiary No. 1](pdfs/tertiary-0
 
 The ordered list is navigation, so indicate that. In that navigation…
 
-    - the word “Chartreuse” always links to the latest version of your Chartreuse page
-    - the word “Home” always links to the latest version of the Home (index) page
+- the word “Chartreuse” always links to the latest version of your Chartreuse page
+- the word “Home” always links to the latest version of the Home (index) page
 
-The `<title>` is Tertiary :: Colors.
+**Furthermore:**
 
-The content above the horizontal rule is an article. Mark it up as such.
+- The `<title>` is Tertiary :: Colors.
+- The content above the horizontal rule is an article. Mark it up as such.
+- There are two instances of highlighted text on the page. Mark them up appropriately.
+- The following implied sections (notice the word implied) are all in the page’s footer, so mark them up appropriately: Contact, Socialize, Tools, News.
 
-There are two instances of highlighted text on the page. Mark them up appropriately.
-
-The following implied sections (notice the word implied) are all in the page’s footer, so mark them up appropriately: Contact, Socialize, Tools, News.
-index.html
+## index.html
 
 Create **index-02.html** by duplicating **index-01.html** & update **index-02.html** as follows.
 
